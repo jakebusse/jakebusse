@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a Django web app
+🌱 I’m currently learning Django and Java
+👨‍💻 Website: jakebusse.net
+📫 How to reach me: jakerbusse@gmail.com
+😄 Pronouns: he/him/his
