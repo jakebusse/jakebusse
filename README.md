@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Django web app
+- 🔭 I’m currently working on a Django web app (<a href="http://www.anonypous.com">anonypous.com</a>)
 - 🌱 I’m currently learning Django and Java
-- 👨‍💻 Website: <a href="">Hello</a>
+- 👨‍💻 Website: <a href="http://www.jakebusse.net">jakebusse.net</a>
 - 📫 How to reach me: jakerbusse@gmail.com
 - 😄 Pronouns: he/him/his
