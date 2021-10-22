@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Django web app
 - 🌱 I’m currently learning Django and Java
-- 👨‍💻 Website: http://www.jakebusse.net
+- 👨‍💻 Website: <a href="">Hello</a>
 - 📫 How to reach me: jakerbusse@gmail.com
 - 😄 Pronouns: he/him/his
