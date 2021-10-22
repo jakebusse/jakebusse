@@ -11,17 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
-
-<body>
 - 🔭 I’m currently working on a Django web app (<a href="http://www.anonypous.com" target="_blank">anonypous.com</a>)
 - 🌱 I’m currently learning Django and Java
 - 👨‍💻 Website: <a href="http://www.jakebusse.net" target="_blank">jakebusse.net</a>
 - 📫 How to reach me: jakerbusse@gmail.com
 - 😄 Pronouns: he/him/his
-</body>
