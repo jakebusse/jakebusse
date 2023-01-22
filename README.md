@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an open source Student Information System (SIS)
-- 🌱 I’m currently learning Django and Java
+- 🔭 I’m currently working on a software management web app
+- 🌱 I’m currently learning Django and C++
 - 👨‍💻 Website: <a href="http://www.jakebusse.net" target="_blank">jakebusse.net</a>
 - 📫 How to reach me: jakerbusse@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/they
