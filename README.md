@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning ...
 -->
 
-- 🔭 I’m currently working on a software management web app
-- 🌱 I’m currently learning Django and C++
+- 🔭 I’m currently working on a Bingo simulation program
+- 👯 I’m looking to collaborate on a software management web app
 - 👨‍💻 Website: <a href="http://www.jakebusse.net" target="_blank">jakebusse.net</a>
-- 📫 How to reach me: jakerbusse@gmail.com
+- 📫 How to reach me: <a href="mailto:jakerbusse@gmail.com">jakerbusse@gmail.com</a>
 - 😄 Pronouns: he/they
