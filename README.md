@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a verbage management app
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, TypeScript, and NextJS
 - 👨‍💻 Website: <a href="https://www.jakebusse.net" target="_blank">jakebusse.net</a>
 - 📫 How to reach me: <a href="mailto:jakerbusse@gmail.com">jakerbusse@gmail.com</a>
 - 😄 Pronouns: he/him
